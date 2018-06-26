@@ -1,0 +1,12 @@
+.wrapper {
+    background: rgb(175, 175, 175);
+    background-image: url('https://vignette.wikia.nocookie.net/lotr/images/8/87/Ringstrilogyposter.jpg/revision/latest?cb=20070806215413');
+    height: 100%;
+    display: flex;
+    background-repeat: none;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    padding-bottom: 50px;
+  }
