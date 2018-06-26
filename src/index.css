@@ -5,7 +5,7 @@ body {
 }
 * {
   box-sizing: border-box;
-  font-family: 'Bungee', cursive;
+  font-family: 'Times New Roman';
 }
 
 html, body, #root {

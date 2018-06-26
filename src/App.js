@@ -46,7 +46,7 @@ class App extends Component {
       this.setState({ topScore: newScore });
     }
     else if (newScore === 12) {
-      this.setState({ rightWrong: "You win!" });
+      this.setState({ rightWrong: "YOU ARE THE LORD OF THE RINGS" });
     }
     this.handleShuffle();
   };
@@ -55,7 +55,7 @@ class App extends Component {
     this.setState({
       currentScore: 0,
       topScore: this.state.topScore,
-      rightWrong: "Glaven!",
+      rightWrong: "NEVER TRUST AN ELF",
       clicked: []
     });
     this.handleShuffle();
@@ -77,8 +77,7 @@ class App extends Component {
         />
 
         <Title>
-          Try to click on each character, but don't hit any duplicates, or
-          we'll release the hounds!!!
+          CLICK ON A GIF, MAKE SURE NOT TO CLICK ON IT TWICE!!!
         </Title>
 
         <Container>

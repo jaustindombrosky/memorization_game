@@ -1,11 +1,11 @@
 nav {
     width: 100%;
     font-size: 3rem;
-    color: #fff;
+    color: rgb(194, 173, 52);
     margin-bottom: 50px;
-    background-color: rgb(56, 56, 56);
+    background-color: rgb(192, 48, 48);
     height: auto;
-    font-family: 'Bungee', cursive;
+    font-family: 'Times New Roman';
   }
   
   a {
