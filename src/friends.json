@@ -1,27 +1,27 @@
 [
     {
       "id": 1,
-      "image": "http://www.simpsoncrazy.com/content/pictures/regulars/ComicBookGuy2.gif",
+      "image": "https://media.giphy.com/media/SWjCswum5dc0E/giphy.gif",
       "clicked": false
     },
     {
       "id": 2,
-      "image": "http://www.simpsoncrazy.com/content/pictures/regulars/BarneyBikini.gif",
+      "image": "https://media.giphy.com/media/JGbS4RGhWUm7S/giphy.gif",
       "clicked": false
     },
     {
       "id": 3,
-      "image": "http://www.simpsoncrazy.com/content/pictures/regulars/Apu1.gif",
+      "image": "https://media.giphy.com/media/XwLYWBdWbpkSQ/giphy.gif",
       "clicked": false
     },
     {
       "id": 4,
-      "image": "http://www.simpsoncrazy.com/content/pictures/regulars/MrBurns4.gif",
+      "image": "https://static.fjcdn.com/gifs/Lotr+gif+i+found+this_20c351_4223345.gif",
       "clicked": false
     },
     {
       "id": 5,
-      "image": "http://www.simpsoncrazy.com/content/pictures/regulars/Cletus1.gif",
+      "image": "https://media.giphy.com/media/3tcWKP43b59hm/giphy.gif",
       "clicked": false
     },
     {
@@ -36,27 +36,27 @@
     },
     {
       "id": 8,
-      "image": "http://www.simpsoncrazy.com/content/pictures/regulars/Krusty8.gif",
+      "image": "https://media.giphy.com/media/fO5moq210jEvm/giphy.gif",
       "clicked": false
     },
     {
       "id": 9,
-      "image": "http://www.simpsoncrazy.com/content/pictures/regulars/Milhouse2.gif",
+      "image": "https://media.giphy.com/media/wmZkcJkPAXMnC/giphy.gif",
       "clicked": false
     },
     {
       "id": 10,
-      "image": "http://www.simpsoncrazy.com/content/pictures/regulars/GroundskeeperWilly1.gif",
+      "image": "http://m.fooyoh.com/files/attach/images/3004/111/626/014/lotr1.gif",
       "clicked": false
     },
     {
       "id": 11,
-      "image": "http://www.simpsoncrazy.com/content/pictures/regulars/RalphWiggum4.gif",
+      "image": "https://www.awesomegifs.com/wp-content/uploads/q0jHAUI.gif",
       "clicked": false
     },
     {
       "id": 12,
-      "image": "http://www.simpsoncrazy.com/content/pictures/regulars/MoeSzyslak1.gif",
+      "image": "https://i0.wp.com/gifrific.com/wp-content/uploads/2017/11/you-shall-not-pass-gandalf-lotr.gif?resize=500%2C205&ssl=1",
       "clicked": false
     }
   ]
