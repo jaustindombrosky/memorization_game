@@ -8,7 +8,7 @@ import Row from "./Row";
 import Column from "./Column";
 import friends from "./friends.json";
 import "./App.css";
-
+// asdfasdfa
 function shuffleFriends(array) {
   for (let i = array.length - 1; i > 0; i--) {
     let j = Math.floor(Math.random() * (i + 1));
